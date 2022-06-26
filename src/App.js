@@ -84,6 +84,8 @@ export default function App() {
   return (
     <div className="App container bg-dark">
       <div className="row">
+        <h1>Focus Links</h1>
+        <h2>a utility for managing a simplified task list</h2>
         <div id='modeButtonDiv' className="col-12">
           {modeButton()}
         </div>
