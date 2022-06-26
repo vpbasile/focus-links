@@ -1,0 +1,37 @@
+:root {
+	--blue-dark: #003854;
+	--blue-bright: #82C5E6;
+	--green-dark: #193C1A;
+	--green-bright: #5DD462;
+	--red-dark: #572620;
+	--red-bright: #FEA599;
+	--purple-dark: #353056;
+	--purple-bright: #B4B8F1;
+	--orange-dark: #46301D;
+	--orange-bright: #F3AE63;
+}
+
+.bg-blue-dark { background-color: var(--blue-dark); }
+.bg-blue-bright { background-color: var(--blue-bright); }
+.text-blue-dark, .text-blue-dark a { color: var(--blue-dark); }
+.text-blue-bright, .text-blue-bright a { color: var(--blue-bright); }
+
+.bg-green-dark { background-color: var(--green-dark); }
+.bg-green-bright { background-color: var(--green-bright); }
+.text-green-dark, .text-green-dark a { color: var(--green-dark); }
+.text-green-bright, .text-green-bright a { color: var(--green-bright); }
+
+.bg-red-dark { background-color: var(--red-dark); }
+.bg-red-bright { background-color: var(--red-bright); }
+.text-red-dark, .text-red-dark a { color: var(--red-dark); }
+.text-red-bright, .text-red-bright a { color: var(--red-bright); }
+
+.bg-purple-dark { background-color: var(--purple-dark); }
+.bg-purple-bright { background-color: var(--purple-bright); }
+.text-purple-dark, .text-purple-dark a { color: var(--purple-dark); }
+.text-purple-bright, .text-purple-bright a { color: var(--purple-bright); }
+
+.bg-orange-dark { background-color: var(--orange-dark); }
+.bg-orange-bright { background-color: var(--orange-bright); }
+.text-orange-dark, .text-orange-dark a { color: var(--orange-dark); }
+.text-orange-bright, .text-orange-bright a { color: var(--orange-bright); }
